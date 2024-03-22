@@ -47,20 +47,4 @@ def char_list(dict):
     for item in list_char_dict:
         print(f"The '{item["char"]}' character was found {item["num"]} times")
     
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
 main()
